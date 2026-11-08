@@ -13,6 +13,7 @@ project:
     - file: index.md
     - file: lecture_16_example.ipynb
     - file: project_1.ipynb
+      title: "Project 1: NYC Restaurant Inspections"
     
 site:
   template: book-theme
